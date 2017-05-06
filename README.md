@@ -1,1 +1,1 @@
-# sass-boilerplate
+# Sass boilerplate
